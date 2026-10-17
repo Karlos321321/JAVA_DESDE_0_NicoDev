@@ -1,14 +1,11 @@
-//***************
-//mi 1er Programa
-//***************
-
 
 public class Hola_Mundo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Imprime el mensaje de bienvenida
 				
-		System.out.println ("Hola a todos !!!!");
+		System.out.println ("Empiezo");
+		System.out.println("Termino");
 
 	}
 }
