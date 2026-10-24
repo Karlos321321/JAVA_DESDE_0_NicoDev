@@ -1,5 +1,10 @@
 package Bloque_2;
 
+//********************************************
+//PROGRAMA QUE CAMBIA EL VALOR DE UNA VARIABLE
+//********************************************
+
+
 public class CambioValor {
 
 	public static void main(String[] args) {
