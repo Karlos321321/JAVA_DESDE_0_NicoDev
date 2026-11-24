@@ -1,7 +1,5 @@
 package Bloque_2;
 
-import com.sun.source.doctree.EscapeTree;
-
 public class SaltosYTabs {
 
 	public static void main(String[] args) {
