@@ -33,5 +33,6 @@ public class CarneSocio {
 		System.out.println(cuotaPagada == true ? "Cuota Pagada                     |" : "Cuota Impagada                   |");
 		System.out.println("+-------------------------------------------------+");		
 		
+		
 	}
 }
